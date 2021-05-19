@@ -4,10 +4,9 @@
 
 -	Assuming minikube and kubectl is already installed.
 		
-		```sh
+		
 		minikube Start
 		
-		```
 	
 -	Deploy application from Phase-one folder
 		
