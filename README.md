@@ -32,4 +32,6 @@
 		kubectl apply -f Phase-two/wp-mysql-deployment.yaml
 		
 	
--	Try to hit same minikube ip address and port
+-	Try to hit same minikube ip address and port 32002 e.g.
+		
+		http://192.168.99.111:32002
